@@ -1,5 +1,3 @@
-Here's the customized report for your Employee Attrition Analysis project for Perusahaan Jaya Jaya Maju:
-
 # Proyek Akhir: Employee Attrition Analysis with Random Forest  
 **Nama:** Naufal Nur Fahriza  
 **Email:** a297ybf370@devacademy.id  
