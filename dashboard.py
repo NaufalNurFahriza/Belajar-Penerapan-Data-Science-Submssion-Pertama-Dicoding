@@ -110,7 +110,7 @@ if attrition_filter == "Attrited":
     filtered_df = filtered_df[filtered_df['Attrition'] == 1]
 elif attrition_filter == "Not Attrited":
     filtered_df = filtered_df[filtered_df['Attrition'] == 0]
-filtered_df = filtered_df[(filtered_df['Age'] >= age_range[0]) & (filtered_df['Age'] <= age_range[1]]
+filtered_df = filtered_df[(filtered_df['Age'] >= age_range[0]) & (filtered_df['Age'] <= age_range[1])]
 
 # Dashboard Overview
 if menu == "📊 Dashboard Overview":
